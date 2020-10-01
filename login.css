@@ -7,7 +7,7 @@
 }
 body{
     font-family: "Raleway", sans-serif;
-    background:#f6f5f7; 
+    background:rgb(255, 9, 91); 
     display:flex;
     flex-direction: center;
     align-items: center;
@@ -76,7 +76,7 @@ a{
 }
 .icon a{
     border:0.5px solid #ddd;
-    background-color:#52d15a;
+    background-color:rgb(255, 9, 91);
     color:white;
     border-radius: 50%;
     display:inline-flex;
@@ -97,8 +97,8 @@ a{
 
 button{
     border-radius: 20px;
-    border:1px solid #52d15a; 
-    background:#52d15a;
+    border:1px rgb(128, 0, 41); 
+    background:rgb(255, 9, 91);
     color:aliceblue;
     font-size:12px;
     font-weight:bold;
